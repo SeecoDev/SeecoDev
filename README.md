@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SeecoDev
-- 👀 I’m interested in Computer Sciencies
-- 🌱 I’m currently learning JavaScript and its variants
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Computer Sciencies, especially in the Data Engineering side
+- 🌱 I’m currently learning Java and Python
 - 📫 How to reach me ... floresmenaadrian@gmail.com
 
 <!---
