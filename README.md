@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeecoDev
 - 👀 I’m interested in Computer Sciencies, especially in the Data Engineering side
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Javascript, Dart and Python
 - 📫 How to reach me ... floresmenaadrian@gmail.com
 
 <!---
